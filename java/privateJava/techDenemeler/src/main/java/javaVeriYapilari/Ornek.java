@@ -10,7 +10,7 @@ public class Ornek {
         uz=ad.length();
 
         System.out.println(ad+" kelimesinin uzunluğu "+uz);
-
+        System.out.println("git deneme");
 
 
     }
