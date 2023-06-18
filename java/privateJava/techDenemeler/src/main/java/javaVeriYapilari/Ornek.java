@@ -1,6 +1,5 @@
 package javaVeriYapilari;
 
-import javax.xml.transform.sax.SAXTransformerFactory;
 
 public class Ornek {
     public static void main(String[] args) {
@@ -10,7 +9,6 @@ public class Ornek {
         uz=ad.length();
 
         System.out.println(ad+" kelimesinin uzunluğu "+uz);
-        System.out.println("git deneme");
 
 
     }
