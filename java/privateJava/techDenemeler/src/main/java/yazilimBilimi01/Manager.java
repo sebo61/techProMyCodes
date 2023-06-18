@@ -13,4 +13,11 @@ public class Manager extends Employee{
         System.out.println("Çalışanlara "+amount+" tl zam yapıldı");
 
     }
+
+    @Override
+    public void showInfos() {
+
+        super.showInfos();
+        System.out.println("Sorumlu olunan personel..:"+this.num_of_employes);
+    }
 }
