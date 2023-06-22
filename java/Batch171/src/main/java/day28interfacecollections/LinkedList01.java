@@ -16,7 +16,7 @@ public class LinkedList01 {
 
 
         /*
-        1) ArrayListler eleman ekleme ve silme islemlerinde basarisizdirlar
+        1) ArrayListler eleman ekleme ve silme islemlerinde basarisizdirlar.
             o yuzden eleman silme ve ekleme islemleri coklukla yapilacaksa Arraylist kullanmak tavsiye edilmez
         2) LinkedListler index kullanmadiklarindan node silme ve eklemede re-index yapilmasina gerek yoktur
             Bu da LinkedListleri eleman ekleme ve silmede cok basarili hale getirir

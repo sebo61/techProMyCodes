@@ -3,7 +3,8 @@ package day27abstraction;
 public abstract class Courses {
     //abstraction
     public abstract void math();
-    public void art(){
+
+    public void art() {
         System.out.println("learn art");
     }
 
@@ -13,13 +14,11 @@ public abstract class Courses {
     child classlarin yapmak zorunda olduklari gorevleri belirlemek icin kullaniyorsak
     "Abstraction" yapariz.
     2)Bazen parent class daki methodun bodysi hicbir child class tarafindan kullanilmaz.
-    Bu durumda parenttaki methoda body yazmak hic kullanilmadigi icin mantikli degildir
-    Bizde yazmayiz
-    3)Bodysi yazilmayan methoda Abstract Method denir. Abstract ingilizcede vucutsuz yada soyut demektir
-    4)Methodun body sini yazmayinca java bize hata verir, bizde abstract keywordunu kullanarak
+    Bu durumda parenttaki methoda body yazmak hic kullanilmadigi icin mantikli degildir, bizde yazmayiz
+    3)Bodysi yazilmayan methoda Abstract Method denir. Abstract ingilizcede vücutsuz yada soyut demektir
+    4)Methodun bodysini yazmayinca java bize hata verir, bizde abstract keywordunu kullanarak
     javaya bu methodun bodysi olmayacak deriz
-    5)abstract keywordunu kullaninca elde ettigimiz abstract method normal classlara konulamaz
-    o yuzden classi da abtstract yapmaliyiz
+    5)abstract keywordunu kullaninca elde ettigimiz abstract method normal classlara konulamaz, o yuzden classi da abtstract yapmaliyiz
     6) Parenttaki method abstract ise butun child classlar o methodu override etmek zorundadir
     Bu yuzden tum childler icin mecburi olmasini istedigimiz fonksiyonlari abstract yapmak mantikli bir secimdir.
     7) body si olan metodlar (=concrete metod) abstract classların içine yazılabilir. absract methodlar concrete clasların içine yazılamaz.
@@ -30,8 +29,7 @@ public abstract class Courses {
     10) "abstract class"larin icinde abstract methodlar olur. "abstract methodlar" bodysi olmadigindan eksik methodlar gibi
     dusunulebilir, yani abstract class icinde eksik bir yapi barindirir. Eger siz abstract classdan
     object uretirseniz bu eksiklik object e yansir, java bunu istemez cunku eksik object eksik iş yapar,
-    buda applicationin yanlis çalismasina sebep olur
-    java application u korumak icin abstract classlardan object uretilmesini engellemistir
+    buda applicationin yanlis çalismasina sebep olur java application u korumak icin abstract classlardan object uretilmesini engellemistir
     11) "abstract class"larin constructor i vardir ama object olusturamazlar.
     12) abstract classın abstract childı veya concrete childi olabilir. eğer child abstract ise absrtact metodları override etmek zorunda
     değildir.

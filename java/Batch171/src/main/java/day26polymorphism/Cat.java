@@ -1,6 +1,7 @@
 package day26polymorphism;
 
-public class Cat extends Animal {public void meow(){
+public class Cat extends Animal {
+    public void meow(){
     System.out.println("cat meow...");
 }
     // Override annotation override kurallarının java tarafından kontrol edilmesini sağlar.
@@ -17,11 +18,13 @@ public void eat(){
     }
     @Override
     public Cat create(){
-    return new Cat();
+
+        return new Cat();
     }
 
     @Override
     public int add(int a, int b) {
+
         return a+b;
     }
 

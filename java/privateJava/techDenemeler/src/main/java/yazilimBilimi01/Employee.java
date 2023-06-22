@@ -18,4 +18,15 @@ public class Employee {
         System.out.println("Maaşı..:"+this.salary);
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getDepartment() {
+        return department;
+    }
+
+    public int getSalary() {
+        return salary;
+    }
 }

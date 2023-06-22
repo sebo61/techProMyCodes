@@ -5,7 +5,7 @@ public class Student {
     /*
     Encapsulation nedir? Data Hiding (veri gizleme)
     Data nasıl saklanır?
-    Acces modifierlarını private yaparak datayi diğer classlardan gorunmez hale getiririm. bölece datayı saklarım
+    Acces modifierlarını private yaparak datayi diğer classlardan gorunmez hale getiririm. bölece datayı saklarız
       Emcapsulation yaptığımız datayı istersek diğer classlardan okuyabiliriz.
       nasıl okuruz?
       getmethod oluşturarak encapsulation edilmiş datanın değerini okuyabiliriz.
@@ -53,10 +53,12 @@ public class Student {
     }
 
     public void setNotOrt(double notOrt) {
+
         this.notOrt = notOrt;
     }
 
     public void setSuccessful(boolean successful) {
+
         isSuccessful = successful;
     }
 }
