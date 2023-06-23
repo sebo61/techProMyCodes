@@ -10,5 +10,9 @@
         <module name="techDenemeler" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaDevTeam" target="11" />
+      <module name="techDenemeler" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

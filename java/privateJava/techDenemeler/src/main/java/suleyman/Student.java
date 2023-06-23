@@ -1,6 +1,4 @@
-package suleymanHoca;
-
-import java.security.PublicKey;
+package suleyman;
 
 public class Student {
     /*
