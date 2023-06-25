@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaDevTeam" />
         <module name="practice_nt" />
         <module name="techDenemeler" />
         <module name="Batch171" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaDevTeam" target="11" />
+      <module name="MyProject01" target="11" />
+      <module name="MyProject02 (1)" target="11" />
+      <module name="MyProject02 (2)" target="11" />
+      <module name="untitled" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25a2726-dd4c-4231-96a4-d5310a2f62fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s01_polymorphism/Medya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s01_polymorphism/MedyaOynatici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s01_polymorphism/SesDosyasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s01_polymorphism/VideoDosyasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/Aslan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/HayvanatBahcesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/Kaplumbaga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/Ziyaretci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/Zurafa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practive06/s02_oop_project/sou.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/privateJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/src/main/java/suleymanHoca/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayDenemeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayDenemeler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayListDenem02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayListDenem02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayListDeneme01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayListDeneme01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayListKitap151.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayListKitap151.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayOneDimession.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/ArrayOneDimession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Arrays3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Arrays3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Date.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Inheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/Arrays/Min.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/day23/DateTimeFormatterExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/day23/DateTimeFormatterExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/javaVeriYapilari/Ornek.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../privateJava/techDenemeler/target/classes/javaVeriYapilari/Ornek.class" afterDir="false" />
-    </list>
+    <list default="true" id="f25a2726-dd4c-4231-96a4-d5310a2f62fd" name="Changes" comment="220623:12:00" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +35,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/sebo6/Desktop/TechProEducation/java/practice_nt/Batch171JavaAdvancedPracticeNT/src/main/java",
+    "last_opened_file_path": "C:/Users/sebo6/Desktop/TechProEducation/java/privateJava/techDenemeler/src/main/java/suleymanHoca",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,11 +86,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687456074833</updated>
-      <workItem from="1687456075838" duration="10854000" />
+      <workItem from="1687456075838" duration="11978000" />
     </task>
+    <task id="LOCAL-00001" summary="220623:12:00">
+      <option name="closed" value="true" />
+      <created>1687471172575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687471172575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="220623:12:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="220623:12:00" />
   </component>
 </project>
