@@ -1,6 +1,5 @@
-package suleyman.day16;
+package suleyman.day16arraysforeachloop;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Arrays03 {
