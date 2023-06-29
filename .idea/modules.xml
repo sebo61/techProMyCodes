@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/privateJava/techDenemeler/techDenemeler.iml" filepath="$PROJECT_DIR$/java/privateJava/techDenemeler/techDenemeler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/techProMyCodes.iml" filepath="$PROJECT_DIR$/.idea/techProMyCodes.iml" />
     </modules>
   </component>

@@ -50,5 +50,36 @@ public class ArrayList01 {
         //specific bir eleman nasıl değiştirilir.
         ages.set(6,111); //
         System.out.println(ages);  //[12, 99, 24, 23, 33, 9, 111, 33]
+        // ArrayListe specific bir elemanın var olup olmadığını nasıl anlarız.
+        boolean r1= ages.contains(99);
+        System.out.println(r1); //true
+        // Bir ArrayList'in boş olup olmadığını nasıl kontrol ederiz.
+       boolean r2= ages.isEmpty();
+        System.out.println(r2); //false
+        // bir ArrayList'te tüm elemanları nasıl sileriz.
+        ages.clear();
+        System.out.println(ages);//[]
+
+        boolean r3=ages.isEmpty();
+        System.out.println(r3); //true
+        // eXAMPLE 1: BİR LİSTİN BOŞ OLUP OLAMDIĞI KONTROL EDEN KODU YAZINIZ.
+
+        ArrayList<String> names=new ArrayList<>();
+        names.add("Ajda");
+        names.add("Cüneyt");
+        names.add("Angelina");
+        names.add("Brad");
+
+        if (names.size()==0){
+            System.out.println("Liste boşutr");
+        }else{
+            System.out.println("List has at least 1 element.");
+        }
+        if (names.isEmpty()){
+            System.out.println("List is empty");
+        }else{
+            System.out.println("List has at least 1 element.");
+        }
+
     }
 }
