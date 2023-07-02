@@ -14,6 +14,7 @@ public class Student {
     //farklı package geçtiğinizde protected olanlar sadece child class lardan görülebilir.
 
     protected int slary=3000;
+    // Class lar public ve default olabilir. private ve protected olamazlar.
 
 
 }
