@@ -1,4 +1,4 @@
-package suleyman.day16arraysforeachloop;
+package suleymanHoca.day16arraysforeachloop;
 
 import java.util.Arrays;
 

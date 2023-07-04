@@ -1,4 +1,4 @@
-package suleyman.day24inheritancepolymorphism;
+package suleymanHoca.day24inheritancepolymorphism;
 
 public class Volvo extends Car {
     public void secure() {

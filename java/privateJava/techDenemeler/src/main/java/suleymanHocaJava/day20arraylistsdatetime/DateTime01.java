@@ -1,4 +1,4 @@
-package suleyman.day20arraylistsdatetime;
+package suleymanHoca.day20arraylistsdatetime;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

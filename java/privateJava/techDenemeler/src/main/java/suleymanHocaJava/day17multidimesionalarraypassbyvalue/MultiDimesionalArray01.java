@@ -1,4 +1,4 @@
-package suleyman.day17multidimesionalarraypassbyvalue;
+package suleymanHoca.day17multidimesionalarraypassbyvalue;
 
 import java.util.Arrays;
 

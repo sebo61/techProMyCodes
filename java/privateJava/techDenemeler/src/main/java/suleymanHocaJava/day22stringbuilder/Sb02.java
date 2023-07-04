@@ -1,7 +1,4 @@
-package suleyman.day22stringbuilder;
-
-import java.sql.SQLOutput;
-import java.util.Locale;
+package suleymanHoca.day22stringbuilder;
 
 public class Sb02 {
     public static void main(String[] args) {

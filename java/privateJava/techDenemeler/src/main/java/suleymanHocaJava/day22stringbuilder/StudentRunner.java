@@ -1,6 +1,4 @@
-package suleyman.day22stringbuilder;
-
-import suleyman.day23inheritance.Cat;
+package suleymanHoca.day22stringbuilder;
 
 public class StudentRunner {
     public static void main(String[] args) {

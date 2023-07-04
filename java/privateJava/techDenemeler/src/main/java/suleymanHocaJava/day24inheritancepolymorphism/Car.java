@@ -1,4 +1,4 @@
-package suleyman.day24inheritancepolymorphism;
+package suleymanHoca.day24inheritancepolymorphism;
 /*
 1) inhertance da object oluştururken constructorlar yukarıdan (Parent) aşağıya (child) doğru çalışır.
 2) Parent ve Super eş anlamlıdır. child ve sub eş anlamlıdır.

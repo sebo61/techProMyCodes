@@ -1,4 +1,4 @@
-package suleyman.day22stringbuilder;
+package suleymanHoca.day22stringbuilder;
 
 public class Student {
     // studentname public olduğu için diğer classlardan ulaşılabilir.

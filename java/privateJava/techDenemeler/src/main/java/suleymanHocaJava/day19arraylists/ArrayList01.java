@@ -1,8 +1,6 @@
-package suleyman.day19arraylists;
+package suleymanHoca.day19arraylists;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
-import java.util.Iterator;
 
 public class ArrayList01 {
     /*

@@ -1,4 +1,4 @@
-package suleyman.day17multidimesionalarraypassbyvalue;
+package suleymanHoca.day17multidimesionalarraypassbyvalue;
 
 public class PassByValue01 {
     public static void main(String[] args) {

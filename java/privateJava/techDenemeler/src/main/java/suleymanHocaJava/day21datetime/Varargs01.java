@@ -1,4 +1,4 @@
-package suleyman.day21datetime;
+package suleymanHoca.day21datetime;
 
 public class Varargs01 {
     public static void main(String[] args) {

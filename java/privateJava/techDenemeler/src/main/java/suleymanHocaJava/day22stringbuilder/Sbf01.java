@@ -1,4 +1,4 @@
-package suleyman.day22stringbuilder;
+package suleymanHoca.day22stringbuilder;
 
 public class Sbf01 {
     public static void main(String[] args) {

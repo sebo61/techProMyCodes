@@ -1,6 +1,4 @@
-package suleyman.day22stringbuilder;
-
-import javax.xml.transform.sax.SAXTransformerFactory;
+package suleymanHoca.day22stringbuilder;
 
 public class Sb01 {
     /*

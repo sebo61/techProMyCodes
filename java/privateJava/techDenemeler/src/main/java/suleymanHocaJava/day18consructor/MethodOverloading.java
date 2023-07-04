@@ -1,4 +1,4 @@
-package suleyman.day18consructor;
+package suleymanHoca.day18consructor;
 
 public class MethodOverloading {
     /*

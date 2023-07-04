@@ -1,4 +1,4 @@
-package suleyman.day23inheritance;
+package suleymanHoca.day23inheritance;
 
 public class Cat extends Animal{
     public void meow(){
