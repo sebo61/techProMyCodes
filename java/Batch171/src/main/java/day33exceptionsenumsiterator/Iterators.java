@@ -12,13 +12,13 @@ public class Iterators {
         1) Iterator lar loop ların yaptığı aynı işi yapar.
         2) Iteratorlarda sonsuz loop oluşma ihtimali yoktur.
         3) Iteratorlar ile looplar arasında performans farkı yoktur.
-        4) Iteratorlar bir collctiondan eleman silma ve bir collctiondaki elemani değiştirme konusunda daha başarılıdır.
+        4) Iteratorlar bir collectiondan eleman silme ve bir collectiondaki elemani değiştirme konusunda daha başarılıdır.
         5) iki tip iterator var.
             a) Iterator: bu sadece eleman silmede kullnılır.
                 Eleman eklemek veya elemanı değiştirmek mümkün değildir.
             b) ListIterator : Eleman silebilir, ekleyebilir ve değiştirebilir.
 
-            Note: Iterator sadece soldan sağa (ilk elemandan son elemana ) calişir.
+            Note: Iterator sadece soldan sağa (ilk elemandan son elemana ) calişır.
                 ListIterator ise iki yonlu çalışabilir.
          */
 
