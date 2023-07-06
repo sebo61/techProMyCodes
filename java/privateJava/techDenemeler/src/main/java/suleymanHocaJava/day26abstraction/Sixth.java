@@ -1,4 +1,4 @@
-package suleymanHoca.day26abstraction;
+package suleymanHocaJava.day26abstraction;
 
 public class Sixth extends Courses{
     @Override
