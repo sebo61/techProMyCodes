@@ -33,7 +33,7 @@ variablarda kullanıldığında a) o variablea kesinlikle değer ataması yapıl
 
  */
 
-public abstract class Courses {
+public abstract class  Courses {
     public abstract void math();
     public void art(){
         System.out.println("Learn art");
