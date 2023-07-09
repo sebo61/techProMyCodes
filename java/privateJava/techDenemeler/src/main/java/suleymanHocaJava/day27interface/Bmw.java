@@ -1,4 +1,9 @@
-package suleymanHocaJava.day27interface;
+package suleymanHoca.day27interface;
 
-public class Bmw {
+public class Bmw implements suleymanHocaJava.day27interface.Engine {
+    @Override
+    public void start() {
+
+    }
+
 }

@@ -1,10 +1,13 @@
-package suleymanHoca.day24inheritancepolymorphism;
+package suleymanHocaJava.day24inheritancepolymorphism;
+
+import suleymanHocaJava.day27interface.Honda;
+import suleymanHocaJava.day27interface.Toyota;
 
 public class CarRunner {
     public static void main(String[] args) {
         Toyota t1 = new Toyota();
         Honda h1=new Honda();
-        Volvo v1=new Volvo();
+        suleymanHoca.day24inheritancepolymorphism.Volvo v1=new suleymanHoca.day24inheritancepolymorphism.Volvo();
         v1.move();
 
 

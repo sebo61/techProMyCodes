@@ -1,4 +1,8 @@
 package suleymanHocaJava.day27interface;
 
-public class Toyota {
+public class Toyota implements suleymanHocaJava.day27interface.Engine {
+    @Override
+    public void start() {
+
+    }
 }

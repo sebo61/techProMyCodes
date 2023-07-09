@@ -14,6 +14,7 @@ public class Lambda01 {
         myList.add("Elif");
         myList.add("Zeynep");
         myList.add("Mustafa");
+
         printElementsExceptStarsWithE(myList);
         System.out.println();
         printDistinctElementsLenghtLessThanFive(myList);
@@ -117,7 +118,7 @@ public class Lambda01 {
 
 
     //Example 6: Bir List'teki elemanlari tekrarsiz olarak kucuk harflerle uzunluklarina gore
-    // kucukten buyuge siralayarak console'a yazdiran method'u olusturunuz.
+    // kucukten buyuge sıralayarak console'a yazdiran method'u olusturunuz.
     public static void printElementsUniqueLowerCaseSortWithLenght(List<String> myList) {
         myList.
                 stream().
