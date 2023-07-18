@@ -5,4 +5,9 @@ public class Toyota implements suleymanHocaJava.day27interface.Engine {
     public void start() {
 
     }
+
+    @Override
+    public void payment() {
+
+    }
 }

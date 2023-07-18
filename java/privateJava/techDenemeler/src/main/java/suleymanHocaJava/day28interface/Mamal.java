@@ -8,4 +8,7 @@ package suleymanHocaJava.day28interface;
  */
 
 public interface Mamal extends Animal {
+    String feedBaby="Milk";
+
+
 }
