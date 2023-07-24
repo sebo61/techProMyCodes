@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/Batch171/Batch171.iml" filepath="$PROJECT_DIR$/java/Batch171/Batch171.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/MyProject01/MyProject01.iml" filepath="$PROJECT_DIR$/java/MyProject01/MyProject01.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/MyProject02/MyProject02 (1).iml" filepath="$PROJECT_DIR$/java/MyProject02/MyProject02 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/java/yenirepo/MyProject02 (2).iml" filepath="$PROJECT_DIR$/java/yenirepo/MyProject02 (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/trials/techDenemeler/techDenemeler.iml" filepath="$PROJECT_DIR$/java/trials/techDenemeler/techDenemeler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/techProMyCodes.iml" filepath="$PROJECT_DIR$/.idea/techProMyCodes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/trials/untitled/untitled.iml" filepath="$PROJECT_DIR$/java/trials/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

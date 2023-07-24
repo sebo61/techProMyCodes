@@ -10,6 +10,7 @@ public class ExecuteQuery01 {
         Statement st=con.createStatement(); // db ye iletim yapmak ve query calistirmak için oluşturulur.
         // System.out.println("Connection succes");
 
+
         String query1="  select country_name from countries where id between 5 and 10";
         boolean sql1= st.execute(query1);
 
@@ -17,16 +18,17 @@ public class ExecuteQuery01 {
 
         // kayıtları görmek için executeQuery() kullanmalıyız.
 
-        ResultSet resultset=st.executeQuery(query1);
+        ResultSet resultset=st.executeQuery(query1); //select
 
 //        resultset.next();
 //        System.out.println(resultset.getString("country_name"));
-        //Resultset in first(),last(),next() gini methodları vardır
+        //Resultset in first(),last(),next() gibi methodları vardır
         //Resultset in geriye donusu yoktur
 
         while(resultset.next()){
             System.out.println("Ülke ismi : "+resultset.getString("country_name"));
         }
+
         System.out.println("---------------------------------------");
         //ÖRNEK 2: phone_code'u 550 den büyük olan ülkelerin "phone_code" ve "country_name" bilgisini l
 
@@ -48,7 +50,20 @@ public class ExecuteQuery01 {
 
         }
         System.out.println("------------ÖRNEK4-------------");
-//ÖRNEK 4:Puanı bölümlerin taban puanlarının ortalamasından yüksek olan öğrencilerin isim ve puanlarını listeleyiniz
+        //ÖRNEK 4:Puanı bölümlerin taban puanlarının ortalamasından yüksek olan öğrencilerin isim ve puanlarını listeleyiniz
+
+        String query4="select ogrenciler.bolum,ogrenciler.isim,ogrenciler.puan,bolumler.taban_puani\n" +
+                "from ogrenciler \n" +
+                "full join bolumler\n" +
+                "on bolumler.bolum=ogrenciler.bolum\n" +
+                "where ogrenciler.puan>(select avg(taban_puani) from bolumler)";
+
+        ResultSet rs4= st.executeQuery(query4);
+        while (rs4.next()){
+            System.out.println(rs4.getString("isim")+"--"+rs4.getInt("puan"));
+
+        }
+
 
 
         st.close();
