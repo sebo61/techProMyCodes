@@ -1,7 +1,7 @@
 package generics.classes;
 // generic data tipi olarak primitive data tipleri kullanılamaz.
 
-public class GenericsClass <T>{
+public class GenericClass<T>{
     /*
     E --> Element, collection gibi yapılarda kullanılır
     K --> Key

@@ -8,7 +8,7 @@ public class RunnerGenericType {
         // generics ile hangi data tipini kullanacağımıza sonradan karar verebiliyoruz.
         // Java 7 den sonra sağ tarafta data tipini belirlemeye gerek kalmadı.
 
-        GenericsClass <String> obj1=new GenericsClass<>();
+        GenericClass<String> obj1=new GenericClass<>();
         obj1.setField("generics type");
 
         String str= obj1.getField(); // CTE vermedi.CAST probleminden kurtulduk.
@@ -16,10 +16,10 @@ public class RunnerGenericType {
 
         //--------------------------------------------------
 
-        GenericsClass<String> obj2=new GenericsClass<>();
+        GenericClass<String> obj2=new GenericClass<>();
        // obj2.setField(123); //generics tür-güvenliğini sağlar.
 
-        GenericsClass<Integer> obj3= new GenericsClass<>();
+        GenericClass<Integer> obj3= new GenericClass<>();
         obj3.setField(123);
         Integer integer=obj3.getField();
 
