@@ -1,4 +1,4 @@
-package suleymanHoca.day29collections;
+package suleymanHocaJava.day29collections;
 
 public class LinkedList01 {
 
